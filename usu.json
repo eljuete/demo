@@ -1,0 +1,38 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "juan",
+    "body": "q"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "camilo",
+    "body": "e"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "maria",
+    "body": "et"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "claudia",
+    "body": "u"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "juana",
+    "body": "r"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "pedro",
+    "body": "u"
+  }
+  ]
